@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/tests/static/css/main.5a7ad904.css",
+    "main.js": "/tests/static/js/main.6302c081.js",
+    "static/js/787.6b7abe35.chunk.js": "/tests/static/js/787.6b7abe35.chunk.js",
+    "static/media/html-big.jpg": "/tests/static/media/html-big.e11e1d23c5e269a542e6.jpg",
+    "static/media/ice-cream-big.jpg": "/tests/static/media/ice-cream-big.cff7f1857dd6f31d2345.jpg",
+    "static/media/news-big.jpg": "/tests/static/media/news-big.7fdc844cd4abcbcd9e3f.jpg",
+    "static/media/header-bg.png": "/tests/static/media/header-bg.5bf82a058f892ab7f237.png",
+    "static/media/sun.svg": "/tests/static/media/sun.4d47962acd6c83e7e7aca592ec39545f.svg",
+    "static/media/moon.svg": "/tests/static/media/moon.829f022e764b1d37016e364c5447dfdb.svg",
+    "static/media/gitHub.svg": "/tests/static/media/gitHub.db1e3cfa3aa61658d837d82e113dc1fe.svg",
+    "static/media/gitHub-black.svg": "/tests/static/media/gitHub-black.61157a57f0853aa9fd2f3622b730cdfc.svg",
+    "static/media/instagram.svg": "/tests/static/media/instagram.c877a8275355fec38548544a6d0ab3b4.svg",
+    "index.html": "/tests/index.html",
+    "static/media/linkedIn.svg": "/tests/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
+    "main.5a7ad904.css.map": "/tests/static/css/main.5a7ad904.css.map",
+    "main.6302c081.js.map": "/tests/static/js/main.6302c081.js.map",
+    "787.6b7abe35.chunk.js.map": "/tests/static/js/787.6b7abe35.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a7ad904.css",
+    "static/js/main.6302c081.js"
+  ]
+}
