@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/tests/static/css/main.01bb04a2.css",
-    "main.js": "/tests/static/js/main.b35e9fff.js",
-    "static/js/787.6b7abe35.chunk.js": "/tests/static/js/787.6b7abe35.chunk.js",
+    "main.css": "/tests/static/css/main.f6fcc645.css",
+    "main.js": "/tests/static/js/main.110f52a4.js",
+    "static/js/787.1ed0c42c.chunk.js": "/tests/static/js/787.1ed0c42c.chunk.js",
     "static/media/html-big.jpg": "/tests/static/media/html-big.e11e1d23c5e269a542e6.jpg",
     "static/media/ice-cream-big.jpg": "/tests/static/media/ice-cream-big.cff7f1857dd6f31d2345.jpg",
     "static/media/news-big.jpg": "/tests/static/media/news-big.7fdc844cd4abcbcd9e3f.jpg",
@@ -14,12 +14,12 @@
     "static/media/instagram.svg": "/tests/static/media/instagram.c877a8275355fec38548544a6d0ab3b4.svg",
     "static/media/linkedIn.svg": "/tests/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
     "index.html": "/tests/index.html",
-    "main.01bb04a2.css.map": "/tests/static/css/main.01bb04a2.css.map",
-    "main.b35e9fff.js.map": "/tests/static/js/main.b35e9fff.js.map",
-    "787.6b7abe35.chunk.js.map": "/tests/static/js/787.6b7abe35.chunk.js.map"
+    "main.f6fcc645.css.map": "/tests/static/css/main.f6fcc645.css.map",
+    "main.110f52a4.js.map": "/tests/static/js/main.110f52a4.js.map",
+    "787.1ed0c42c.chunk.js.map": "/tests/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.01bb04a2.css",
-    "static/js/main.b35e9fff.js"
+    "static/css/main.f6fcc645.css",
+    "static/js/main.110f52a4.js"
   ]
 }
