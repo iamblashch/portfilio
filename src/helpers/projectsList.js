@@ -13,21 +13,21 @@ const projects = [
 		skills: 'HTML, JS, SCSS',
 		img: project01,
 		imgBig: project01Big,
-		gitHubLink: 'https://github.com',
+		gitHubLink: 'https://github.com/iamblashch/goit-team-project-bandido-js',
 	},
 	{
 		title: 'Ice Cream',
 		img: project02,
 		imgBig: project02Big,
 		skills: 'HTML, SCSS',
-		gitHubLink: 'https://github.com',
+		gitHubLink: 'https://github.com/VishPoly/alliance',
 	},
 	{
 		title: 'WebStudio',
 		img: project03,
 		imgBig: project03Big,
 		skills: 'HTML, CSS',
-		gitHubLink: 'https://github.com',
+		gitHubLink: 'https://github.com/iamblashch/goit-markup-hw-08',
 	},
 ];
 
