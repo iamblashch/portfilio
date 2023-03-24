@@ -33,7 +33,7 @@ const projects = [
 		img: project04,
 		imgBig: project04Big,
 		skills: 'JS, REACT, HTML,SCSS',
-		gitHubLink: 'https://github.com/iamblashch/goit-markup-hw-08',
+		gitHubLink: 'https://iamblashch.github.io/react_project/',
 	},
 	{
 		title: 'WebStudio',
@@ -47,7 +47,7 @@ const projects = [
 		img: project05,
 		imgBig: project05Big,
 		skills: 'JS, REACT, HTML, CSS',
-		gitHubLink: 'https://github.com/iamblashch/goit-markup-hw-08',
+		gitHubLink: 'https://iamblashch.github.io/goit-react-hw-05-movies/',
 	},
 ];
 
